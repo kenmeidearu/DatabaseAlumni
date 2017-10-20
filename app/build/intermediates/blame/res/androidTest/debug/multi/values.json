@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/kenjinsan/Documents/AndroidProject/Tutorial/DatabaseAlumni/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/kenjinsan/.android/build-cache/efd996d66e8c16a87c0b52c9a2a95307b23de3d3/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

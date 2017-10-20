@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kenjinsan/Documents/AndroidProject/Tutorial/DatabaseAlumni/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/kenjinsan/Documents/AndroidProject/Tutorial/DatabaseAlumni/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kenjinsan/Documents/AndroidProject/Tutorial/DatabaseAlumni/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/kenjinsan/Documents/AndroidProject/Tutorial/DatabaseAlumni/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]
